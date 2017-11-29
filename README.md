@@ -1,3 +1,3 @@
 # issues
 
-Ginger Hackに関する話し合いを行います。
+Ginger Ale Hackathon に関する話し合いを行います。
